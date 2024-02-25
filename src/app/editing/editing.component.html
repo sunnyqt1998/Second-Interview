@@ -1,0 +1,41 @@
+<h1 style="padding-left: 10px;">
+    Angular Data Grid
+  </h1>
+  <div style="margin-bottom: 4px; display: flex;" >
+    <button (click)="onAccountIdFirst()" style="margin-left: 10px;">Account ID First</button>
+    <button (click)="onSwapTwo()" style="margin-left: 10px;">Swap Two Columns</button>
+    <button (click)="onFlashTwoRows()" style="margin-left: 10px;">Flash Two Rows</button>
+    <button (click)="onFlashTwoColumns()" style="margin-left: 10px;">Flash Two Columns</button>
+    <button (click)="clearSelection()" style="margin-left: 10px;">Clear Selection</button>
+    <button (click)="onUpdateSomeValues()" style="margin-left: 10px;">
+        Update Quantity Amount &amp; Valuation Amount &amp; Valuation Normalized Amount Values
+      </button>
+    <button (click)="onBtStartEditing(undefined)" style="margin-left: 10px;">edit (0)</button>
+    <button (click)="onBtStopEditing()" style="margin-left: 10px;">stop ()</button>
+    <button (click)="onBtNextCell()" style="margin-left: 10px;">next ()</button>
+    <button (click)="onBtPreviousCell()" style="margin-left: 10px;">previous ()</button>
+  </div>
+    <p style="padding-left: 10px;">Click one cell to select and edit it</p>
+    <ag-grid-angular
+      class="ag-theme-quartz"
+      style="height: 450px;"
+      [rowData]="rowData$ | async"
+      [columnDefs]="colDefs"
+      [rowSelection]="'multiple'"
+      [animateRows]="true"
+      [suppressRowClickSelection]="true"
+      [groupSelectsChildren]="true"
+      [rowGroupPanelShow]="'always'"
+      [pagination]="true"
+      (gridReady)="onGridReady($event)">
+    </ag-grid-angular>
+    
+    <h1 style="padding-left: 10px;">Angular Slick Grid</h1>
+    <p style="padding-left: 10px;">Press ctrl + click to select multiple rows</p>
+    <angular-slickgrid gridId="grid1"
+                       [columnDefinitions]="columnDefinitions"
+                       [gridOptions]="gridOptions"
+                       [dataset]="dataset">
+    </angular-slickgrid>
+  
+    <!-- [pivotPanelShow]="pivotPanelShow" -->

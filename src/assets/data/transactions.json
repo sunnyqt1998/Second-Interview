@@ -1,0 +1,8128 @@
+[
+  {
+    "_id": "2ed97cb2-39cc-434a-979a-6eaf7ae14342",
+    "direction": "IN",
+    "description": "Cash Deposit",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 4.661588561509573,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "531a7d76-3ae2-4d6d-8598-75de765c65ce",
+    "direction": "IN",
+    "description": "Cash Deposit",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 601.5435307278209,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "486e163f-d089-4837-ba08-eccbd822767f",
+    "direction": "IN",
+    "description": "Cash Deposit",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 332.8044993825597,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "a63b487c-1dc0-4bef-8255-d1a2cd6cf714",
+    "direction": "IN",
+    "description": "Cash Deposit",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 371.4467510042915,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Generated Balance Alignment Transaction",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 4.661588561509573,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Generated Balance Alignment Transaction",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 1500,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 1500,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 1804.6305921834626,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Generated Balance Alignment Transaction",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 2500,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 2500,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 1664.0224969127985,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Generated Balance Alignment Transaction",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 3500,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 3500,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 2600.1272570300407,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sat, 24 Aug 2019 14:00:00 GMT",
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@108.527708610339",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.10894038288461819,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.819503203191",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 34.32884548756476,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.501667069584",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 0.9527118466581275,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.33159071679",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 32.352010346602626,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@109.671012423059",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.09605703242405138,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.783146316817",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 113.29822692407588,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.467013570395",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 47.19115002955232,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.333778618797",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -4.927576189834859,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@109.515237681029",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.012969721125827283,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.774311752326",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 29.137774661819105,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.478041562311",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -15.257975599218042,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.328234276659",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 12.51847940309192,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2019-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@112.346822362302",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.2301411139313484,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.779995866488",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -18.822817670788083,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.472243463883",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 7.993565848609774,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.34085977059",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -28.35634974711887,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@112.442450265758",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.007569959226136694,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.786024696125",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -19.666836841119473,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.550513715514",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -102.8638411077506,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.373663556039",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -71.23939404854428,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@111.71613445291",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.05782016125021813,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.809979721074",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -75.2516948853943,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.591937182007",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -50.34613728427584,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.39080239198",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -35.88355874795646,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@111.001603005247",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.057620390456926754,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.835859092838",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -76.44982716524895,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.699051029173",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -118.80494664942331,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.464669722967",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -145.04650393613616,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@111.200021006568",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.016074850802778526,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.831810183818",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 11.646909729939203,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.619797754585",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 86.39154779909764,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.483198905163",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -34.11749548321774,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@111.898765021069",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.05615493617766587,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.833251833741",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -4.159961368579879,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.533638870104",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 104.04888301251269,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.413197731884",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 133.58662648551746,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@113.521579158825",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.12775122266814842,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.848274513121",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -42.50741523505841,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.529836543951",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 4.861860384724803,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.437218498234",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -47.306532944348056,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@115.864696306725",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.1781412317661303,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.836603460865",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 32.89151924508582,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.532402232802",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -3.283276322129436,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.468191108421",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -58.712748329675875,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@116.44454157595",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.04297756987888847,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.820671416947",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 46.41010233312626,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.490350992941",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 55.23809881862751,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.435585318115",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 61.87897694396849,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@114.848242168373",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.11936331305268527,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.844444686245",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -68.60857367516093,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.515291122161",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -33.1310587038951,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.445709062816",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -19.511527230111625,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@114.020019079288",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.06324728272664483,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.843369947396",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 3.0181694226190103,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.555734961433",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -51.4685508215742,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.457308730137",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -22.02282638269981,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@115.956775294451",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.14648653950578502,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.828253970019",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 43.279733847005005,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.506205846224",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 63.4106031310202,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.437805359317",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 37.23214049847235,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2020-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@115.99065809061",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.0025191852293677403,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.821692553998",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 19.28211606220742,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.460382552032",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 62.49662966002268,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.431283880572",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 12.675940623672055,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@116.994364783242",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.07396374007925463,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.81553923291",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 18.36476449799518,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.461054874206",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -0.9452910080838262,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.433176613627",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -3.6908284967678284,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@116.769395357681",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.01646757022779298,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.784556492548",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 96.84578955568091,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.406105105108",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 80.2421975719938,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.381587646418",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 104.21702481744389,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@117.403883567278",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.046281994007251956,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.767276779791",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 57.41035581400355,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.393424788389",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 19.415565245124334,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.331774882586",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 108.29075190818926,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@119.689164402657",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.16263060572517182,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.79256419438",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -83.16640349051774,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.419005412816",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -38.81189179598032,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.345648229364",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -30.965555067850925,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@122.041864431341",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.16106563496491588,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.787434093924",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 16.440203991546554,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.437471436056",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -27.158848772703582,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.345486060795",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 0.35827452480718947,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@120.496952246827",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.10505552618556707,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.784828841983",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 8.431222574987629,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.446748559283",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -13.382655485047579,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.343608790316",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 4.153696903192117,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@121.102047506567",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.041466387557916734,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.794443585951",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -30.841088796839777,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.503568511446",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -78.36205886485902,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.376338329764",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -70.79487908048998,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@120.243017723819",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.05899250908389213,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.793061192393",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 4.388255797479701,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.482393043281",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 28.50149792901602,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.378374275342",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -4.29273216167303,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@119.368688697768",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0609150501642286,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.793335647419",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -0.8724439114029536,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.480741682455",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 2.256942852844057,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.35941444312",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 40.473936145922096,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@125.455231560892",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.4064353606598372,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.80516229054",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -37.0297765731773,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.462139904121",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 25.775523104384135,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.360788582487",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -2.9713118602816557,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@122.619830868415",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.1843168127777864,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.818033098519",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -39.08242507686488,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.528143517437",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -88.6208462254684,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.391587957657",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -65.05798061626633,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2021-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@126.255933943473",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.23486790524219342,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.810587646868",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 22.456919719201274,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.509042408501",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 24.849305067258577,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.386321657029",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 10.91920372577393,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@124.566556654471",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.10741709252665849,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.802765142057",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 24.042927536973124,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.521973488508",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -16.890695051797188,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.377631336105",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 18.201148182515947,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@125.006808201194",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.028272601011600923,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.816537810881",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -42.02263625353542,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.499883518144",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 29.03031629813635,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.385845603844",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -17.21000451602217,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@132.3470426187",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.44367200074636043,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.823799492249",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -21.590831315907444,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.440428887809",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 82.55769947489455,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.352459352887",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 71.25060802275041,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@133.452912285024",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.0626125871022046,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.816384137297",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 22.051892284199237,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.452852751133",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -17.810023687421793,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.319548158299",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 73.76564957973875,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@135.082134074118",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.09037623413802373,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.831638643293",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -44.93646705174781,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.44717705644",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 8.098358752596457,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.314934138065",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 10.63678156089276,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@140.958968938479",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.30864046167465486,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.861134217708",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -82.37232914378589,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.52957192684",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -111.66828774003767,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.343839711796",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -65.43198774383319,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@138.455947688209",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.12825083630224524,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.858763845599",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 6.410647916684109,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.498230036346",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 41.029671511276455,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.351544035475",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -16.96746025779028,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@142.745607027126",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.217044325487626,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.882395500031",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -62.37162888715542,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.499609717325",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -1.842227182745959,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.339749729961",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 26.05424461098682,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@146.393284110448",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.1745550747304066,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.907111358349",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -61.756376042362064,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.579370891069",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -101.0300145866886,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.399079599474",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -126.60978820782364,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@147.903163703716",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.06973385879698903,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.870433561622",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 92.90455383845409,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.563676112907",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 19.06538172250094,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.36223177425",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 77.33541527641074,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@144.331919937214",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.16729372169089954,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.871021820259",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -1.551792488357684,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.567499719706",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -4.679939149442425,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.434504519415",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -147.9386378032337,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2022-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@141.695790897776",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.12889834075426737,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "OUT",
+    "description": "Revaluation GBP/CHF@0.894470480004",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": -60.19396805178534,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "OUT",
+    "description": "Revaluation AUD/CHF@1.587077222793",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": -23.608751730280876,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "OUT",
+    "description": "Revaluation CAD/CHF@1.464792467125",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": -57.65697052112672,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "a27d7e15-46f8-4732-a853-1b58fbb7ca21",
+    "direction": "IN",
+    "description": "Cash Deposit",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 500,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 3.6256449038211427,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Thu, 12 Jan 2023 13:00:00 GMT",
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "5be68516-37ad-47c9-abb9-f53d307a82cd",
+    "direction": "IN",
+    "description": "End of day Revaluation JPY/CHF@137.906500295448",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.2908757290752406,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-01-13",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d1dcc8ac-360b-4cf4-879e-e54de2378868",
+    "direction": "OUT",
+    "description": "Generated Balance Alignment Transaction",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 1000,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": -1000,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -7.251289807642285,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Thu, 12 Jan 2023 13:00:00 GMT",
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "97310702-d40e-4458-9e0d-4e3fba597b43",
+    "direction": "IN",
+    "description": "Revaluation GBP/CHF@0.889800619413",
+    "accountId": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_currency": "GBP"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "GBP"
+      },
+      "_normalizedValue": {
+        "_amount": 11.734786579756129,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "d4f40630-abcb-456d-8e7c-d27ce3aa9c1f",
+    "direction": "IN",
+    "description": "Revaluation AUD/CHF@1.542624902183",
+    "accountId": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_currency": "AUD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "AUD"
+      },
+      "_normalizedValue": {
+        "_amount": 54.469990071300934,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "74e31ebc-3291-4911-9906-6bc661a7b581",
+    "direction": "IN",
+    "description": "Revaluation CAD/CHF@1.463391784506",
+    "accountId": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_currency": "CAD"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "CAD"
+      },
+      "_normalizedValue": {
+        "_amount": 2.613743828697501,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d1dcc8ac-360b-4cf4-879e-e54de2378868",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@141.765190508206",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.09868600645304877,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Cash Deposit",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": false,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 100,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 100,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.7053917794736189,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": "Sun, 12 Feb 2023 13:00:00 GMT",
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "d1dcc8ac-360b-4cf4-879e-e54de2378868",
+    "direction": "OUT",
+    "description": "End of day Revaluation JPY/CHF@144.952800570437",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.0775602101241407,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@144.952800570437",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.01551204202482814,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-03-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@145.130904702775",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.0050797078254638875,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-04-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@153.498250039062",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.22535936627329622,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-05-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@153.210440130736",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.007342859234628352,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-06-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@161.281714555865",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.19598366374872708,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-07-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@163.84898062091",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.05828989259736572,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-08-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@164.977860628027",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.025057031598473868,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-09-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@163.343442287212",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0363904232113476,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-10-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@166.269233444284",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.06463696783040977,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-11-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@168.713359166356",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.0522773331864396,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2023-12-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@167.623373121919",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.02312534068664978,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@167.204584830539",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.008965262782494564,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-02",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@168.413408722606",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.025756653618904876,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-03",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.27914810733",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.039035890833918896,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-04",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.218146554565",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0012627716239561881,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-05",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.209933568306",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0001700832661278781,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-06",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.117296458669",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0019195652186724393,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-07",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.067599259994",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.001030654505876187,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-08",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@169.445131092733",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.01296037959914332,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-09",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@171.319322485771",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.03873733568851342,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-10",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.429018764614",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.018295300499733026,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-11",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@169.897778716018",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.011008060650919901,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-12",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.092808680674",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.004049290541572985,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-14",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.3272502103",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.004855295971322761,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-15",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.923748202266",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.012293447568614314,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-16",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@171.354287631377",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.008819963690018078,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-17",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.631631812658",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.014829558936223751,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-18",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.608893889698",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.00046864159197728544,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-19",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.607911469304",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0000202510611915091,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-20",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.561229518011",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0009625443896297409,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-21",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.449315998389",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0023097140908924854,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-22",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.484375988107",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.000723907685956475,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-23",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.966507348894",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.009924782727879257,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-24",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.36635955064",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.01236273569680188,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-25",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@171.611165348185",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.025546033003490294,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-26",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@171.597652047742",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0002753314369699847,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-27",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@171.421217854147",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.0035988031326853256,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-28",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@171.210182497852",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.004314319519488352,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-29",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.984130869855",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.004633119417197032,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-30",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.451466470326",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.01096600337035028,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-01-31",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.755964928645",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.006277109763219019,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-01",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@171.102006174085",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.007106375167781169,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-02",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@171.133186853745",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.000638921478974229,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-03",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@171.276164772236",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.0029267730884472223,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-04",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@170.706238767061",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.011695624089529816,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-05",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@169.988962487638",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.014830903274272444,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-06",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification A"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "IN",
+    "description": "Revaluation JPY/CHF@169.409479957902",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": 0.01207349941039857,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-07",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 1",
+    "classifications": [
+      "Classification B"
+    ]
+  },
+  {
+    "_id": "6b94ca80-87de-4def-8ffc-c52a806874b1",
+    "direction": "OUT",
+    "description": "Revaluation JPY/CHF@170.875603585452",
+    "accountId": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+    "_revalTransaction": true,
+    "_quantity": {
+      "_actualQuantity": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_currency": "JPY"
+    },
+    "_valuation": {
+      "_value": {
+        "_amount": 0,
+        "_precision": 8,
+        "_symbol": "JPY"
+      },
+      "_normalizedValue": {
+        "_amount": -0.030388136756233537,
+        "_precision": 8,
+        "_symbol": "CHF"
+      }
+    },
+    "_transactionDate": {
+      "date": "2024-02-08",
+      "time": null,
+      "tz": "Australia/Sydney"
+    },
+    "category": "Category 2",
+    "classifications": [
+      "Classification A",
+      "Classification B"
+    ]
+  }
+]

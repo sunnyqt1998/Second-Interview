@@ -1,0 +1,29 @@
+<h1 style="padding-left: 10px;">
+    Angular Data Grid
+</h1>
+<div style="margin-bottom: 4px; display: flex;" >
+  <button (click)="onAccountIdFirst()" style="margin-left: 10px;">Account ID First</button>
+  <button (click)="onSwapTwo()" style="margin-left: 10px;">Swap Two Columns</button>
+  <button (click)="onFlashTwoRows()" style="margin-left: 10px;">Flash Two Rows</button>
+  <button (click)="onFlashTwoColumns()" style="margin-left: 10px;">Flash Two Columns</button>
+</div>
+<ag-grid-angular
+  class="ag-theme-quartz"
+  style="height: 500px;"
+  [rowData]="rowData$ | async"
+  [columnDefs]="colDefs"
+  [pagination]="true"
+  (gridReady)="onGridReady($event)">
+</ag-grid-angular>
+
+<h1 style="padding-left: 10px;">Angular Slick Grid</h1>
+<div class="container">
+    <angular-slickgrid gridId="grid1"
+              [columnDefinitions]="columnDefinitions"
+              [gridOptions]="gridOptions"
+              [dataset]="dataset">
+    </angular-slickgrid>
+</div>
+
+
+<!-- [rowSelection]="'multiple'" -->

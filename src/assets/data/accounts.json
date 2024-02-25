@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "8ca56f8f-42de-4454-a40b-85fac724c7e7",
+      "name": "Acc1",
+      "timezone": "Australia/Sydney",
+      "currency": "JPY"
+    },
+    {
+      "_id": "23c7869a-5e3d-4cf8-87e3-cc910729d37f",
+      "name": "Acc2",
+      "timezone": "Australia/Sydney",
+      "currency": "GBP"
+    },
+    {
+      "_id": "26cbb7e8-af4a-4ac0-b1f6-ec5402453e29",
+      "name": "Acc3",
+      "timezone": "Australia/Sydney",
+      "currency": "AUD"
+    },
+    {
+      "_id": "6c29111b-a520-4ab2-9787-f92d6d523f30",
+      "name": "Acc4",
+      "timezone": "Australia/Sydney",
+      "currency": "CAD"
+    }
+  ]
